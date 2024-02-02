@@ -1,5 +1,8 @@
 https://www.youtube.com/watch?v=y8XfJJYhXPE&t=1308s
 
+
+
+
 documentação  adonisJS v5
 https://v5-docs.adonisjs.com/guides/introduction
 
@@ -14,6 +17,7 @@ node ace serve --watch
 
 // instalar e configurar o Lucid
 npm i @adonisjs/lucid@18.4.0
+npm install @adonisjs/lucid@16.3.2   //v5
 node ace configure @adonisjs/lucid
 //
 
